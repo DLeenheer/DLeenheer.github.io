@@ -2,7 +2,7 @@
 
 ## Dana Leenheer
 
-## CSPB 3112 Peofessional Development
+## CSPB 3112 Professional Development
 
 ## University of Colorado Boulder
 This website displays information for my data analysis project as part of my CSPB 3112 class at CU Boulder.
