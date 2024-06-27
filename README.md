@@ -1,7 +1,5 @@
 # DLeenheer.github.io
 
-## Dana Leenheer
-
 ## CSPB 3112 Professional Development
 
 ## University of Colorado Boulder
