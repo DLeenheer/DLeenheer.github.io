@@ -1,11 +1,11 @@
 # What did you do last week?
-- Completed one of the R courses, there is now one left.
-- The R section videos are very interactive. I downloaded R and RStudio and ran through the various activities after watching and then pausing section or section video.
-- Got my personal website up and running.
+- Completed one of the R courses, there is now one left
+- I downloaded R and RStudio and ran through the various activities after watching and then pausing section or section video.
+- I got my personal website up and running
 
 # What do you plan to do this week?
-- Complete the last R LinkedIn Learning video.
-- Watch a quicker statistics video.
+- Complete the last R LinkedIn Learning video
+- Watch a quicker statistics video
 - Update the formatting for my weekly update posts/ pages on my website. Currently the posts are just text vs. the formatting of the landing page that I want.
 
 # Are there any impediments in your way?
