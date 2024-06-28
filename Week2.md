@@ -1,4 +1,4 @@
-# Week 2 Post
+# Week 2
 ## What did you do last week?
 - I created a post in piazza listing my initial project ideas, which included learning Tableau, R, or studying for the AWS cloud practitioner exam
 
