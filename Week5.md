@@ -1,4 +1,4 @@
-#Week 5
+# Week 5
 
 ## What did you do last week?
 - Reviewed the assigned project proposals from fellow students
