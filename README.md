@@ -8,3 +8,6 @@ This website displays information for my data analysis project as part of my CSP
 
 ## Project Proposal
 [Project Proposal](https://dleenheer.github.io/Project%20Proposal.pdf)
+
+## Life Long Learning
+[Life Long Learning Activity](asdfsafd)
