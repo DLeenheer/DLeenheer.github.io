@@ -1,4 +1,4 @@
-# Lifelong Learning Resources Activity
+# Learning Resources Report - Quinncia Resume Review
 
 - Course: CSPB Career Services Advisor Zoom meeting, Quinncia – website walkthrough video, resume AI scan/analysis and post-report resume editing
   - I met with Brian Hand with the Engineering career services team and discussed my job search and current resume.
@@ -12,5 +12,7 @@
   - I received a gold medal score after editing with 3 points lost for 1 red flag, and 30 points lost for 30 suggested improvements.
   - Interestingly the AI scanner did not detect my bullet points. It also didn’t like that I called my experience section professional experience instead of work experience. I have a separate internships and events section, so this is why I had the first section labeled as professional experience. I edited both section headers.
   - I then made edits to the resume and tried again; the industry selected was Information Technology.
-  - I also uploaded a pdf of my LinkedIn profile and had that analyzed as well.
+  - I received a gold medal score for this round with 314 total points.
+  - I also uploaded a pdf of my LinkedIn profile and had that analyzed.
   - I received a silver score for my profile.
+<img width="851" alt="image" src="https://github.com/DLeenheer/DLeenheer.github.io/assets/110181133/f3407c2a-def5-4fd8-b47c-7a5af828da4a">
