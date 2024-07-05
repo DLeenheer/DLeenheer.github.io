@@ -1,10 +1,14 @@
 # Learning Resources Report - Quinncia Resume Review
 
-- Course: CSPB Career Services Advisor Zoom meeting, Quinncia – website walkthrough video, resume AI scan/analysis and post-report resume editing
-  - I met with Brian Hand with the Engineering career services team and discussed my job search and current resume.
-  - I went to the Quinncia website (via the UC Boulder Engineering career services website) and watched the walkthrough video that discussed the overview of the website features, how to get started, the resume analysis feature, the post-analysis report and the different portions of the scoring, the AI interview feature, and the steps and components of the post video report.
-  - I uploaded my current resume and edited it based on the report (I completed 2 rounds of this activity).
-- Location: Zoom call, CSPB Career Services website, Quinncia website 
+- Course:
+  - CSPB Career Services Advisor Zoom meeting
+    - I met with Brian Hand with the Engineering career services team and discussed my job search and current resume
+  - Quinncia – website walkthrough video
+  - Quinncia – resume AI scan/analysis and post-report resume editing
+    - I went to the Quinncia website (via the UC Boulder Engineering career services website) and watched the walkthrough video that discussed the overview of the website features, how to get started, the resume analysis feature, the post-analysis report and the different portions of the scoring, the AI interview feature, and the steps and components of the post video report.
+    - I uploaded my current resume and edited it based on the report (I completed 3 rounds of this activity).
+- Location:
+  - Zoom call, CSPB Career Services website, Quinncia website
 - Review: 
   - My conversation with Brian was informative and helped me plan my job search for the coming weeks. He also gave me some pointers on my resume. 
   - The Quinncia resume report was interesting and provided valuable feedback on how an ATS system would read my resume.
