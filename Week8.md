@@ -1,9 +1,9 @@
 # Week 8
 
 ## What did you do last week?
-- Watch the last hour of the last R video
-- Watch some of the data analysis videos
-- I started a new data contract position. As part of my onboarding I have been getting up to speed with the different data and security tools within Microsoft's Azure suite. Some of this learning as taken place a bit outside work hours and directly relates to my goals for this class.
+- Watched the last hour of the last R video
+- Watched some of the data analysis videos
+- I started a new data contract position. As part of my onboarding I have been getting up to speed with the different data and security tools within Microsoft's Azure suite. Some of this learning has taken place a bit outside work hours and directly relates to my goals for this class.
 
 ## What do you plan to do this week?
 - Keep working on the data analysis videos. Complete the exercises alongside the videos if available, these were helpful when completing the R videos/training.
