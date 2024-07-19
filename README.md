@@ -13,4 +13,4 @@ This website displays information for my data analysis project as part of my CSP
 [Life Long Learning Activity](LifeLongLearning.md) 
 
 ## Project Update Report
-[Project Update Report](Project Update Report.pdf) 
+[Project Update Report](ProjectUpdateReport.pdf) 
