@@ -11,3 +11,6 @@ This website displays information for my data analysis project as part of my CSP
 
 ## Learning Report - Quinncia Resume Review
 [Life Long Learning Activity](LifeLongLearning.md) 
+
+## Project Update Report
+[Project Update Report]
