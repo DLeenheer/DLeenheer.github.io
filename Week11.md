@@ -6,8 +6,9 @@
 - I completed half of a 3.5 hour LinkedIn Learning course on data analytics and achieved perfect scores on the section quizzes
 
 ## What do you plan to do this week?
-- Keep working on the Microsoft Azure Data Fundamentals and Power Apps modules.
-- Complete two courses in the LinkedIn Learning pathway and complete the section quizzes.
+- Keep working on the Microsoft Azure Data Fundamentals and Power Apps modules
+- Complete two courses in the LinkedIn Learning pathway and complete the section quizzes
+- Draft final report
 
 ## Are there any impediments in your way?
 - None currently
