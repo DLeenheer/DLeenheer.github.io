@@ -14,3 +14,6 @@ This website displays information for my data analysis project as part of my CSP
 
 ## Project Update Report
 [Project Update Report](ProjectUpdateReport.pdf) 
+
+## Final Project Report - Becoming a Data Analyst/Engineer
+[Final Project Report](FinalProjectReport.pdf)
