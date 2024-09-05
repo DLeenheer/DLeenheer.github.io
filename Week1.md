@@ -1,10 +1,8 @@
-##Week 2: September 1 - September 7
+# Week 2: September 1 - September 7
 
-
-What did you do last week?
-I explored my original project ideas, with the goal of picking one or two to focus on
-AWS cloud or data cert (AWS Certified Cloud Practitioner and/or AWS Certified Developer Associate)
-Azure cloud or data cert (Azure Fundamentals and/or Azure Developer Associate)
+## What did you do last week?
+- I explored my original project ideas, with the goal of picking one or two to focus on
+-- AWS cloud or data cert (AWS Certified Cloud Practitioner and/or AWS Certified Developer Associate) Azure cloud or data cert (Azure Fundamentals and/or Azure Developer Associate)
 Power Platform cert - I'm completing some of the Power Apps and Power Automate modules as part of my current data contractor role
 Google data analytics cert
 Google cloud certs - looks like there's a whole list of them
