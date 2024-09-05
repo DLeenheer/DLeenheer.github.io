@@ -4,6 +4,7 @@
 This website displays information for my data analysis projects as part of my CSPB 3112 class at CU Boulder.
 
 ## Weekly Updates - Fall 2024
+[Week 2](Week2Fall.md)
 
 # Summer 2024 Data Analysis Work
 ## Weekly Updates - Summer 2024
