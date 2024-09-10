@@ -6,6 +6,9 @@ This website displays information for my data analysis projects as part of my CS
 ## Weekly Updates - Fall 2024
 [Week 2](Week2Fall.md)
 
+## Project Proposal - Fall 2024
+[Project Proposal](ProjectProposalFall.md)
+
 # Summer 2024 Data Analysis Work
 ## Weekly Updates - Summer 2024
 [Week 2](Week2.md) | [Week 3](Week3.md) | [Week 4](Week4.md) | [Week 5](Week5.md) | [Week 6](Week6.md) | [Week 7](Week7.md) | [Week 8](Week8.md) | [Week 9](Week9.md) | [Week 10](Week10.md) | [Week 11](Week11.md)
