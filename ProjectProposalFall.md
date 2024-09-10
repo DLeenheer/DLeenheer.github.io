@@ -19,7 +19,7 @@ The total number of hours listed for the pathway seemed like an initial risk but
 
 ## Project Assessments - provide a list of evaluation criteria for the project. Describe how you will know that your project is completed and that you have met your goals.
 -	Complete or make significant progress on the Business Intelligence Data Analyst career path on Codecademy. This includes all lessons, quizzes, and projects. I feel that focusing on significant progress as the minimum benchmark keeps the focus of the semester on upskilling vs. being locked into a pathway.
-  - Time permitting, I will explore further projects on the Codecademy website, such as projects involving R and RStudio.
+-- Time permitting, I will explore further projects on the Codecademy website, such as projects involving R and RStudio.
 -	I will complete 2-3 interview prep activities on Quinncia.
 -	I will watch at least 3 LinkedIn Learning videos on interview prepping, job searching, and related topics.
 
