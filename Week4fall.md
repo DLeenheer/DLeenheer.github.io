@@ -6,7 +6,7 @@
 - Posted comments and suggestions in Piazza on other classmates project proposal submissions.
 
 ## What do you plan to do this week?
-- Continue on with the Codecademy pathway, there's a offplatform python project coming up according to the syllabus I will hopefully start this project this week.
+- Continue on with the Codecademy pathway, there's an off platform python project coming up according to the syllabus. My plan is to hopefully start this project this week.
 
 ## Are there any impediments in your way?
 - None currently
