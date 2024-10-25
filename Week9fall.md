@@ -21,4 +21,4 @@
 - None currently
 
 ## Reflection on the process you used last week, how can you make the process work better?
-- I have been fighting some sort kind of bug and have had a pretty decent cold since last weekend. This made completing things this week significantly more difficult but I was still able to get a lot accompished. Next week should be much smoother.
+- I have been fighting some sort kind of bug and have had a pretty decent cold since last weekend. This made completing things this week significantly more difficult but I was still able to get a lot accomplished. Next week should be much smoother.
