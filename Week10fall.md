@@ -7,7 +7,7 @@
 	  - Article covered URL structure/parts
 	  - Made two API calls in browser to api.census.gov the first was total commuters count & commuters < 5min, the second was total commuters count & commuters > 90 or more min
 	  - A two digit state code got added to the results automatically, it was really neat to see the relay in the browser
-  - Module that walked through using python to get the data from the census.gov with 'import requests'
+  - Module walked through using python to get the data from the census.gov with 'import requests'
   - Seeing the data as text with .text and as json data with .json()
   - Walked through converting the data from json to csv with 'import csv' and writing the data to an empty .csv file
   - Imported the pandas library and used it to read the first few rows of the file with .head() and then renamed the columns
