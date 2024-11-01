@@ -25,7 +25,7 @@
 - Started a module on python dictionaries
 
 ## What do you plan to do this week?
-- Continue on with the Codecademy pathway, there 's a project on linear regression and a portfolio level project on U.S. medical insurance next up after a module on python dictionaries and files
+- Continue on with the Codecademy pathway, there's a project on linear regression and a portfolio level project on U.S. medical insurance next up after a module on python dictionaries and files
 
 ## Are there any impediments in your way?
 - None currently
