@@ -4,7 +4,7 @@
 This website displays information for my data analysis projects as part of my CSPB 3112 class at CU Boulder.
 
 ## Weekly Updates - Fall 2024
-[Week 2](Week2Fall.md) | [Week 3](Week3Fall.md) | [Week 4](Week4fall.md) | [Week 5](Week5fall.md) | [Week 6](Week6fall.md) | [Week 7](Week7fall.md) | [Week 8](Week8fall.md) | [Week 9](Week9fall.md) | [Week 10 - Data Acquisition, APIs, Ciphers with Python strings](Week10fall.md) | [Week 11 - Python Dictionaries and Hurricane Analysis](Week11fall.md)
+[Week 2](Week2Fall.md) | [Week 3](Week3Fall.md) | [Week 4](Week4fall.md) | [Week 5](Week5fall.md) | [Week 6](Week6fall.md) | [Week 7](Week7fall.md) | [Week 8](Week8fall.md) | [Week 9](Week9fall.md) | [Week 10 - Data Acquisition, APIs, Ciphers with Python strings](Week10fall.md) | [Week 11 - Python Dictionaries and Hurricane Analysis](Week11fall.md) | [Week 12 - Python Dictionaries and US Health Insurance, lambda functions, and intro to pandas](Week12fall.md)
 
 ## Project Proposal - Fall 2024
 [Project Proposal](ProjectProposalFall.md)
