@@ -19,4 +19,4 @@
 - None currently
 
 ## Reflection on the process you used last week, how can you make the process work better?
-- This week was pretty smooth. I'm going to rotate between the first porfolio project and the pandas module.
+- This week was pretty smooth. I'm going to rotate between the first portfolio project and the pandas module.
