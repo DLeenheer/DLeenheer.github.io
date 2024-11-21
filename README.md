@@ -9,6 +9,9 @@ This website displays information for my data analysis projects as part of my CS
 ## Project Proposal - Fall 2024
 [Project Proposal](ProjectProposalFall.md)
 
+## Business Intelligence Data Analyst Pathway - Portfolio & Key Projects
+[U.S. Health Insurance Analysis](https://dleenheer.github.io/us-medical-insurance-costs-starter.html)
+
 <div style="page-break-after: always;"></div>
 
 # Summer 2024 Data Analysis Work
