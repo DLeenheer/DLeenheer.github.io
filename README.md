@@ -9,6 +9,9 @@ This website displays information for my data analysis projects as part of my CS
 ## Project Proposal - Fall 2024
 [Project Proposal](ProjectProposalFall.md)
 
+## Final Project Report - Becoming a Business Intelligence Data Analyst - Fall 2024
+[Final Project Report](Final_Project_Report_Fall.pdf)
+
 ## Business Intelligence Data Analyst Pathway - Portfolio & Key Projects
 [U.S. Health Insurance Analysis](https://dleenheer.github.io/us-medical-insurance-costs-starter.html)
 
